@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Professional Coding"/>
 </div>
 
 ## About Me
