@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hello+World;I+am+Sholingarm+Hemanth;Welcome+to+my+GitHub;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning;Let+us+code+together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hello+World;I+am+Sholingarm+Hemanth;Welcome+to+my+GitHub;Software+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning;Let+us+code+together" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@ const sholingarmHemanth = {
 <td width="50%">
 
 ### Currently Working On
-- Building a full-stack e-commerce platform
+- Building a modern e-commerce platform
 - Learning React Native for mobile development
 - Exploring AI and ML with Python
 - Creating beautiful UI and UX designs
@@ -130,7 +130,7 @@ const sholingarmHemanth = {
 </a>
 <br><br>
 <p><strong>JavaScript React Node.js</strong></p>
-<p>A full-stack web application with modern UI and UX design and robust backend functionality.</p>
+<p>A modern web application with beautiful UI and UX design and robust backend functionality.</p>
 </div>
 </td>
 <td width="50%">
@@ -188,7 +188,7 @@ const sholingarmHemanth = {
 <a href="https://discord.gg/your-discord">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="https://sholingarm-hemanth.dev">
+<a href="https://sholingaram-hemanth.vercel.app/">
   <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
