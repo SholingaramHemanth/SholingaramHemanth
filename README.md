@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+Sholingarm+Hemanth;Welcome+to+my+GitHub!;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning!;Let's+code+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hello+World;I+am+Sholingarm+Hemanth;Welcome+to+my+GitHub;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning;Let+us+code+together" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 </div>
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const sholingarmHemanth = {
-    location: "India 🇮🇳",
+    location: "India",
     code: ["JavaScript", "Python", "Java", "TypeScript", "C++"],
     technologies: {
         frontEnd: {
@@ -27,36 +27,36 @@ const sholingarmHemanth = {
         tools: ["Docker", "Git", "Postman", "VS Code"]
     },
     currentFocus: "Building awesome web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I debug with console.log and I am not ashamed"
 };
 ```
 
-## 🌟 What I'm Up To
+## What I am Up To
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔭 Currently Working On
-- 🌐 Building a full-stack e-commerce platform
-- 📱 Learning React Native for mobile development
-- 🤖 Exploring AI/ML with Python
-- 🎨 Creating beautiful UI/UX designs
+### Currently Working On
+- Building a full-stack e-commerce platform
+- Learning React Native for mobile development
+- Exploring AI and ML with Python
+- Creating beautiful UI and UX designs
 
 </td>
 <td width="50%">
 
-### 🌱 Currently Learning
-- ⚡ Next.js and Server-Side Rendering
-- 🐳 Docker containerization
-- ☁️ AWS cloud services
-- 📊 Data structures and algorithms
+### Currently Learning
+- Next.js and Server-Side Rendering
+- Docker containerization
+- AWS cloud services
+- Data structures and algorithms
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack and Tools
 
 <div align="center">
 
@@ -85,7 +85,7 @@ const sholingarmHemanth = {
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Cloud & Tools
+### Cloud and Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -93,54 +93,54 @@ const sholingarmHemanth = {
 
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sholingarm-hemanth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholingarm-hemanth&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sholingarm-hemanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholingarm-hemanth&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sholingarm-hemanth&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sholingarm-hemanth&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholingarm-hemanth&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholingarm-hemanth&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sholingarm-hemanth&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sholingarm-hemanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🌟 Project Highlights
+### Project Highlights
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🚀 Awesome Web App</h3>
+<h3 align="center">Awesome Web App</h3>
 <div align="center">  
 <a href="https://github.com/sholingarm-hemanth/awesome-web-app" target="_blank">
-<img src="https://img.shields.io/badge/⭐_Star_this_repo-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Star_this_repo-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
-<p><strong>JavaScript • React • Node.js</strong></p>
-<p>A full-stack web application with modern UI/UX design and robust backend functionality.</p>
+<p><strong>JavaScript React Node.js</strong></p>
+<p>A full-stack web application with modern UI and UX design and robust backend functionality.</p>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">🤖 AI Assistant Bot</h3>
+<h3 align="center">AI Assistant Bot</h3>
 <div align="center">
 <a href="https://github.com/sholingarm-hemanth/ai-assistant-bot" target="_blank">
-<img src="https://img.shields.io/badge/⭐_Star_this_repo-4FC08D?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Star_this_repo-4FC08D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
-<p><strong>Python • Machine Learning • API</strong></p>
+<p><strong>Python Machine Learning API</strong></p>
 <p>An intelligent chatbot powered by machine learning algorithms for natural conversations.</p>
 </div>
 </td>
@@ -149,32 +149,32 @@ const sholingarmHemanth = {
 
 </div>
 
-## 🌈 Fun Zone
+## Fun Zone
 
 <div align="center">
 
-### 🎨 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🃏 Random Dev Joke
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
+### Random Dev Joke
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
 
-### 🐍 Snake Game (My Contributions)
+### Snake Game My Contributions
 ![Snake animation](https://github.com/sholingarm-hemanth/sholingarm-hemanth/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-## 🎵 Current Coding Playlist
+## Current Coding Playlist
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
 </div>
 
-## 🤝 Let's Connect!
+## Let us Connect
 
 <div align="center">
 
-### 💬 Get in Touch
+### Get in Touch
 
 <a href="mailto:sholingarm.hemanth@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -192,7 +192,7 @@ const sholingarmHemanth = {
   <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-### ☕ Support My Work
+### Support My Work
 
 <a href="https://www.buymeacoffee.com/sholingarmhemanth" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
@@ -203,16 +203,16 @@ const sholingarmHemanth = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 </div>
 
 <div align="center">
   
-**⭐ Star my repositories if you find them interesting!**
+**Star my repositories if you find them interesting**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sholingarm-hemanth&label=Profile%20Views&color=brightgreen&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/sholingarm-hemanth?label=Followers&style=flat-square&color=blue)
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*Code is like humor. When you have to explain it, it is bad.* – Cory House
 
 </div>
