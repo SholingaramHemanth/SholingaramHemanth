@@ -108,30 +108,154 @@ const sholingarmHemanth = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholingaram-hemanth&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-## Advanced GitHub Metrics
+## Skill Proficiency & Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sholingaram-hemanth&theme=tokyonight" alt="GitHub Profile Summary"/>
+
+### Programming Languages Proficiency
+<table>
+<tr>
+<td width="50%">
+
+**Frontend Technologies**
+```text
+JavaScript   ████████████████████ 95%
+TypeScript   ███████████████████  85%
+React        ████████████████████ 90%
+HTML/CSS     ████████████████████ 98%
+Vue.js       ██████████████       70%
+Angular      ████████████         60%
+```
+
+</td>
+<td width="50%">
+
+**Backend Technologies**
+```text
+Node.js      ████████████████████ 90%
+Python       ███████████████████  85%
+Java         ██████████████       70%
+Express.js   ████████████████████ 88%
+Django       ██████████████       65%
+Spring Boot  ████████████         55%
+```
+
+</td>
+</tr>
+</table>
+
+### Database & Cloud Proficiency
+<table>
+<tr>
+<td width="50%">
+
+**Database Technologies**
+```text
+MongoDB      ████████████████████ 85%
+MySQL        ███████████████████  80%
+PostgreSQL   ██████████████       65%
+Redis        ████████████         55%
+Firebase     ███████████████      75%
+```
+
+</td>
+<td width="50%">
+
+**DevOps & Cloud**
+```text
+AWS          ██████████████       65%
+Docker       █████████████████    75%
+Git/GitHub   ████████████████████ 95%
+Linux        ██████████████       70%
+Kubernetes   ██████████           45%
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## Coding Activity & Insights
+
+<div align="center">
+  
+### Weekly Development Breakdown
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sholingaramhemanth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="Weekly Coding Stats"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sholingaram-hemanth&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sholingaram-hemanth&theme=tokyonight" alt="Most Commit Language"/>
+
+### Skills Radar Chart
+```text
+        Problem Solving ████████████████████ 100%
+        Code Quality    ███████████████████  90%
+        Team Work       ████████████████████ 95%
+        Communication   ███████████████████  85%
+        Learning        ████████████████████ 98%
+        Innovation      ██████████████████   80%
+```
+
+### Development Focus Areas
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Web%20Development-95%25-brightgreen?style=for-the-badge&logo=html5&logoColor=white"/>
+<br><strong>Web Development</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Mobile%20Dev-70%25-yellow?style=for-the-badge&logo=react&logoColor=white"/>
+<br><strong>Mobile Development</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Backend%20APIs-85%25-blue?style=for-the-badge&logo=nodejs&logoColor=white"/>
+<br><strong>Backend APIs</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/UI%2FUX-80%25-purple?style=for-the-badge&logo=figma&logoColor=white"/>
+<br><strong>UI/UX Design</strong>
+</td>
+</tr>
+</table>
+
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sholingaram-hemanth&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sholingaram-hemanth&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</div>
-
-## Contribution Metrics
+## Learning Progress & Goals
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sholingaramhemanth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
-</div>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sholingaram-hemanth&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+### Current Learning Path
+| Technology | Progress | Target Completion |
+|------------|----------|-------------------|
+| React Native | ![75%](https://progress-bar.dev/75) | Q3 2025 |
+| AWS Certification | ![45%](https://progress-bar.dev/45) | Q4 2025 |
+| Machine Learning | ![35%](https://progress-bar.dev/35) | Q1 2026 |
+| Docker & Kubernetes | ![60%](https://progress-bar.dev/60) | Q3 2025 |
+| GraphQL | ![50%](https://progress-bar.dev/50) | Q4 2025 |
+
+### Coding Statistics
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total%20Projects-25+-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+<br><strong>Projects Completed</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Code%20Reviews-100+-blue?style=for-the-badge&logo=git&logoColor=white"/>
+<br><strong>Code Reviews</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Open%20Source-15+-orange?style=for-the-badge&logo=opensource&logoColor=white"/>
+<br><strong>Contributions</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Learning%20Hours-500+-purple?style=for-the-badge&logo=clockify&logoColor=white"/>
+<br><strong>Learning Hours</strong>
+</td>
+</tr>
+</table>
+
 </div>
 
 ## GitHub Trophies
