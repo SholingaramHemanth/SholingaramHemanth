@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Professional Coding"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer Working with Coffee"/>
 </div>
 
 ## About Me
@@ -93,19 +93,78 @@ const sholingarmHemanth = {
 
 </div>
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sholingaram-hemanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholingaram-hemanth&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9"/>
+
+### 🎯 Analytics Dashboard
+<div align="center">
+  <a href="https://github.com/sholingaram-hemanth?tab=repositories">
+    <img src="https://img.shields.io/badge/📊_Analytics_Dashboard-Interactive-6A5ACD?style=for-the-badge&labelColor=1a1e22&logo=github&logoColor=white&logoWidth=20" alt="Analytics Dashboard"/>
+  </a>
+  <a href="https://github.com/sholingaram-hemanth/sholingaram-hemanth">
+    <img src="https://img.shields.io/badge/📈_Live_Stats-Real_Time-4FC08D?style=for-the-badge&labelColor=1a1e22&logo=chartdotjs&logoColor=white" alt="Live Stats"/>
+  </a>
+  <a href="https://github.com/sholingaram-hemanth?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/badge/🔍_Deep_Insights-Advanced-FF6B6B?style=for-the-badge&labelColor=1a1e22&logo=codacy&logoColor=white" alt="Deep Insights"/>
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sholingaram-hemanth&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
-</div>
+<br>
+
+### 📈 Real-Time GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholingaram-hemanth&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <!-- Replace 'sholingaram-hemanth' with your actual GitHub username -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sholingaram-hemanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&border_radius=10&custom_title=⚡%20My%20GitHub%20Statistics"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholingaram-hemanth&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&border_radius=10&custom_title=🚀%20Most%20Used%20Languages"/>
+</div>
+
+### 🔥 Activity & Contribution Streaks
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sholingaram-hemanth&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+### 📊 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholingaram-hemanth&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&border_radius=10&custom_title=📈%20My%20Contribution%20Graph" alt="GitHub Activity Graph"/>
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sholingaram-hemanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Commits,Stars,Repositories,PullRequest,Issues,Followers,Experience,MultiLanguage" alt="GitHub Trophies"/>
+</div>
+
+### 📊 Detailed Analytics
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/followers/sholingaram-hemanth?label=Followers&style=for-the-badge&color=blue&labelColor=1a1e22&logo=github&logoColor=white"/>
+<br><strong>Followers</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/stars/sholingaram-hemanth?affiliations=OWNER&style=for-the-badge&color=yellow&labelColor=1a1e22&logo=github&logoColor=white"/>
+<br><strong>Total Stars</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://komarev.com/ghpvc/?username=sholingaram-hemanth&label=Profile%20Views&color=brightgreen&style=for-the-badge&labelColor=1a1e22"/>
+<br><strong>Profile Views</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/last-commit/sholingaram-hemanth/sholingaram-hemanth?style=for-the-badge&color=red&labelColor=1a1e22&logo=github&logoColor=white"/>
+<br><strong>Last Updated</strong>
+</td>
+</tr>
+</table>
+</div>
+
 </div>
 
 ## Skill Proficiency & Statistics
@@ -181,6 +240,7 @@ Kubernetes   ██████████           45%
 <div align="center">
   
 ### Weekly Development Breakdown
+<!-- Note: You need to set up WakaTime to get real coding time stats -->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sholingaramhemanth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="Weekly Coding Stats"/>
 
 </div>
