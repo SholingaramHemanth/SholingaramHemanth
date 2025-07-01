@@ -67,6 +67,11 @@ const sholingarmHemanth = {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="React Development"/>
+  <p><em>React & Frontend Development</em></p>
+</div>
+
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -79,6 +84,11 @@ const sholingarmHemanth = {
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Node.js Backend"/>
+  <p><em>Node.js & Backend API Development</em></p>
+</div>
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -113,6 +123,11 @@ const sholingarmHemanth = {
 <div align="center">
 
 ### Programming Languages Proficiency
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="300" alt="JavaScript Animation"/>
+</div>
+
 <table>
 <tr>
 <td width="50%">
@@ -144,7 +159,18 @@ Spring Boot  ████████████         55%
 </tr>
 </table>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Python Data Visualization"/>
+  <p><em>Python - Data Science & Backend Development</em></p>
+</div>
+
 ### Database & Cloud Proficiency
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300" alt="Java Programming"/>
+  <p><em>Java - Enterprise Development</em></p>
+</div>
+
 <table>
 <tr>
 <td width="50%">
@@ -173,6 +199,11 @@ Kubernetes   ██████████           45%
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Database Operations"/>
+  <p><em>Database Management & Cloud Computing</em></p>
+</div>
 
 </div>
 
@@ -239,4 +270,130 @@ Kubernetes   ██████████           45%
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/Total%20Projects-25+-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-<br><strong
+<br><strong>Projects Completed</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Code%20Reviews-100+-blue?style=for-the-badge&logo=git&logoColor=white"/>
+<br><strong>Code Reviews</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Open%20Source-15+-orange?style=for-the-badge&logo=opensource&logoColor=white"/>
+<br><strong>Contributions</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Learning%20Hours-500+-purple?style=for-the-badge&logo=clockify&logoColor=white"/>
+<br><strong>Learning Hours</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sholingaram-hemanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+## Featured Projects
+
+<div align="center">
+
+### Project Highlights
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Awesome Web App</h3>
+<div align="center">  
+<a href="https://github.com/sholingarm-hemanth/awesome-web-app" target="_blank">
+<img src="https://img.shields.io/badge/Star_this_repo-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<p><strong>JavaScript React Node.js</strong></p>
+<p>A modern web application with beautiful UI and UX design and robust backend functionality.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">AI Assistant Bot</h3>
+<div align="center">
+<a href="https://github.com/sholingarm-hemanth/ai-assistant-bot" target="_blank">
+<img src="https://img.shields.io/badge/Star_this_repo-4FC08D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<p><strong>Python Machine Learning API</strong></p>
+<p>An intelligent chatbot powered by machine learning algorithms for natural conversations.</p>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+## Fun Zone
+
+<div align="center">
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### Random Dev Joke
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
+
+### Snake Game My Contributions
+![Snake animation](https://github.com/sholingarm-hemanth/sholingarm-hemanth/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## Current Coding Playlist
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+</div>
+
+## Let us Connect
+
+<div align="center">
+
+### Get in Touch
+
+<a href="mailto:sholingaramhemanth@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/sholingaram-hemanth">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/sholingaram_hemanth">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://discord.gg/sholingaramhemanth">
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://sholingaram-hemanth.vercel.app/">
+  <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+### Support My Work
+
+<a href="https://www.buymeacoffee.com/sholingaramhemanth" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+</div>
+
+<div align="center">
+  
+**Star my repositories if you find them interesting**
+
+![Profile Views](https://komarev.com/ghpvc/?username=sholingarm-hemanth&label=Profile%20Views&color=brightgreen&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/sholingarm-hemanth?label=Followers&style=flat-square&color=blue)
+
+*Code is like humor. When you have to explain it, it is bad.* – Cory House
+
+</div>
