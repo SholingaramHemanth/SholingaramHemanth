@@ -189,7 +189,7 @@ console.log("Welcome to my digital universe! 🌌");
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholingaram-hemanth&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholingaramhemanth&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -295,13 +295,6 @@ Kubernetes   ██████████           45%
 </div>
 
 <div align="center">
-  
-### 📊 Weekly Development Breakdown
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sholingaramhemanth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="Weekly Coding Stats"/>
-
-</div>
-
-<div align="center">
 
 ### 🎯 Skills Radar Chart
 ```text
@@ -397,7 +390,7 @@ Kubernetes   ██████████           45%
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sholingaram-hemanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sholingaramhemanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -420,7 +413,7 @@ Kubernetes   ██████████           45%
 <td width="50%">
 <h3 align="center">🚀 Awesome Web App</h3>
 <div align="center">  
-<a href="https://github.com/sholingarm-hemanth/awesome-web-app" target="_blank">
+<a href="https://github.com/sholingaramhemanth/awesome-web-app" target="_blank">
 <img src="https://img.shields.io/badge/⭐_Star_this_repo-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
@@ -431,7 +424,7 @@ Kubernetes   ██████████           45%
 <td width="50%">
 <h3 align="center">🤖 AI Assistant Bot</h3>
 <div align="center">
-<a href="https://github.com/sholingarm-hemanth/ai-assistant-bot" target="_blank">
+<a href="https://github.com/sholingaramhemanth/ai-assistant-bot" target="_blank">
 <img src="https://img.shields.io/badge/⭐_Star_this_repo-4FC08D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
@@ -472,7 +465,7 @@ Kubernetes   ██████████           45%
 ### 🐍 Snake Game - Eating My Contributions
 <div align="center">
 
-![Snake animation](https://github.com/sholingarm-hemanth/sholingarm-hemanth/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/sholingaramhemanth/sholingaramhemanth/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -545,8 +538,8 @@ Kubernetes   ██████████           45%
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sholingarm-hemanth&label=Profile%20Views&color=brightgreen&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/sholingarm-hemanth?label=Followers&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sholingaramhemanth&label=Profile%20Views&color=brightgreen&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/sholingaramhemanth?label=Followers&style=flat-square&color=blue)
 
 <br/>
 
