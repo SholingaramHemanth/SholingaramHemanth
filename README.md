@@ -240,7 +240,7 @@ Spring Boot  ████████████         55%
 </table>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Python Data Visualization"/>
+  <img src="" width="300" alt="Python Data Visualization"/>
   <p><em>🐍 Python - Data Science & Backend Powerhouse 🐍</em></p>
 </div>
 
