@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/sholingaram-hemanth">
+  <a href="https://github.com/sholingaramhemanth">
     <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="900" alt="Matrix Code Rain"/>
   </a>
 </div>
@@ -180,12 +180,12 @@ console.log("Welcome to my digital universe! 🌌");
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sholingaram-hemanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholingaram-hemanth&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sholingaramhemanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholingaramhemanth&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sholingaram-hemanth&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sholingaramhemanth&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
