@@ -76,10 +76,11 @@ console.log("Welcome to my digital universe! 🌌");
 
 ### 🚀 Currently Working On
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br/>
-✨ Building a modern e-commerce platform<br/>
-📱 Learning React Native for mobile development<br/>
-🤖 Exploring AI and ML with Python<br/>
-🎨 Creating beautiful UI and UX designs<br/>
+🔐 Developing a secure full-stack authentication system using Node.js and MySQL
+🧠 Building a smart traffic monitoring solution using Edge Computing and task scheduling
+🤖 Engineering a human-following robot with real-time pose estimation using MediaPipe
+🌐 Designing a responsive and SEO-optimized personal portfolio website
+📊 Creating an AI-powered resume analyzer using NLP and cosine similarity (upcoming)<br/>
 
 </td>
 <td width="50%" align="center">
