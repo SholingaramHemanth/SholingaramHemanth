@@ -1,323 +1,564 @@
-import React, { useState, useEffect } from 'react';
-import { Github, Mail, Linkedin, Twitter, Code, Database, Cloud, Zap, Star, ExternalLink, Coffee } from 'lucide-react';
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHOLINGARAM%20HEMANTH&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Code%20Architect%20|%20Digital%20Innovator&descAlignY=55&descSize=18"/>
+</div>
 
-const Portfolio = () => {
-  const [currentText, setCurrentText] = useState(0);
-  const [activeSection, setActiveSection] = useState('about');
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hello+World;I+am+Sholingaram+Hemanth;Welcome+to+my+GitHub;Software+Developer;Code+is+Poetry;Building+Tomorrow+Today;Turning+Coffee+into+Code;Innovation+Through+Code" alt="Typing SVG" />
+</div>
 
-  const typingTexts = [
-    "Hello World! 👋",
-    "I am Sholingaram Hemanth",
-    "Full Stack Developer",
-    "Code is Poetry 🎨",
-    "Building Tomorrow Today 🚀"
-  ];
+<div align="center">
+  <a href="https://github.com/sholingaramhemanth">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="900" alt="Matrix Code Rain"/>
+  </a>
+</div>
 
-  const featuredProjects = [
-    {
-      title: "🔐 Secure Authentication System",
-      tech: ["Node.js", "MySQL", "JWT"],
-      description: "A robust full-stack authentication system with advanced security features",
-      status: "Active",
-      progress: 85
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Professional Developer"/>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  🌟 About The Code Architect 🌟
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+javascript
+const sholingaramHemanth = {
+    location: "India 🇮🇳",
+    code: ["JavaScript", "Python", "Java", "TypeScript", "C++"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue.js", "Angular"],
+            css: ["Tailwind CSS", "Bootstrap", "Sass"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+            python: ["Django", "Flask", "FastAPI"],
+            java: ["Spring Boot"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+        cloud: ["AWS", "Google Cloud", "Azure"],
+        tools: ["Docker", "Git", "Postman", "VS Code"]
     },
-    {
-      title: "🤖 Human-Following Robot",
-      tech: ["MediaPipe", "Computer Vision", "Python"],
-      description: "Real-time pose estimation robot with human tracking capabilities",
-      status: "Development",
-      progress: 70
-    },
-    {
-      title: "🧠 AI Resume Analyzer",
-      tech: ["NLP", "Python", "Machine Learning"],
-      description: "AI-powered resume analyzer using cosine similarity and natural language processing",
-      status: "Upcoming",
-      progress: 25
-    }
-  ];
-
-  const topSkills = [
-    { name: "JavaScript", level: 95, color: "from-yellow-400 to-orange-500" },
-    { name: "React", level: 90, color: "from-blue-400 to-cyan-500" },
-    { name: "Node.js", level: 90, color: "from-green-500 to-green-600" },
-    { name: "Python", level: 85, color: "from-blue-500 to-indigo-600" },
-    { name: "MongoDB", level: 85, color: "from-green-600 to-green-700" },
-    { name: "Docker", level: 75, color: "from-blue-500 to-blue-600" }
-  ];
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setCurrentText((prev) => (prev + 1) % typingTexts.length);
-    }, 2500);
-    return () => clearInterval(interval);
-  }, []);
-
-  const SkillBar = ({ skill }) => (
-    <div className="mb-4 group">
-      <div className="flex justify-between items-center mb-2">
-        <span className="text-sm font-medium text-gray-300">{skill.name}</span>
-        <span className="text-sm text-gray-400">{skill.level}%</span>
-      </div>
-      <div className="w-full bg-gray-700 rounded-full h-2.5 overflow-hidden">
-        <div 
-          className={`h-2.5 bg-gradient-to-r ${skill.color} rounded-full transition-all duration-1000 ease-out transform group-hover:scale-105`}
-          style={{ width: `${skill.level}%` }}
-        />
-      </div>
-    </div>
-  );
-
-  const ProjectCard = ({ project }) => (
-    <div className="bg-gray-800 bg-opacity-70 rounded-xl p-6 border border-gray-700 hover:border-purple-500 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/20 transform hover:-translate-y-1 backdrop-blur-sm">
-      <div className="flex justify-between items-start mb-3">
-        <h3 className="text-lg font-semibold text-white">{project.title}</h3>
-        <span className={`px-3 py-1 rounded-full text-xs font-medium ${
-          project.status === 'Active' ? 'bg-green-900 text-green-300' :
-          project.status === 'Development' ? 'bg-blue-900 text-blue-300' :
-          'bg-yellow-900 text-yellow-300'
-        }`}>
-          {project.status}
-        </span>
-      </div>
-      
-      <p className="text-gray-300 text-sm mb-4">{project.description}</p>
-      
-      <div className="flex flex-wrap gap-2 mb-4">
-        {project.tech.map((tech, idx) => (
-          <span key={idx} className="px-2 py-1 bg-purple-900 bg-opacity-50 text-purple-300 rounded-full text-xs border border-purple-700">
-            {tech}
-          </span>
-        ))}
-      </div>
-      
-      <div className="mb-4">
-        <div className="flex justify-between items-center mb-1">
-          <span className="text-xs text-gray-400">Progress</span>
-          <span className="text-xs text-gray-400">{project.progress}%</span>
-        </div>
-        <div className="w-full bg-gray-700 rounded-full h-2">
-          <div 
-            className="h-2 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full transition-all duration-1000"
-            style={{ width: `${project.progress}%` }}
-          />
-        </div>
-      </div>
-      
-      <div className="flex justify-between items-center">
-        <button className="flex items-center gap-2 text-purple-400 hover:text-purple-300 transition-colors text-sm">
-          <Github size={16} />
-          View Code
-        </button>
-        <button className="flex items-center gap-2 text-blue-400 hover:text-blue-300 transition-colors text-sm">
-          <ExternalLink size={16} />
-          Live Demo
-        </button>
-      </div>
-    </div>
-  );
-
-  const NavButton = ({ section, icon: Icon, label }) => (
-    <button
-      onClick={() => setActiveSection(section)}
-      className={`flex items-center gap-2 px-4 py-2 rounded-lg transition-all duration-300 ${
-        activeSection === section
-          ? 'bg-purple-600 text-white shadow-lg shadow-purple-500/30'
-          : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
-      }`}
-    >
-      <Icon size={18} />
-      <span className="hidden sm:inline">{label}</span>
-    </button>
-  );
-
-  return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-purple-900 to-gray-900 text-white">
-      {/* Animated Background */}
-      <div className="fixed inset-0 z-0">
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_40%,rgba(120,119,198,0.2),transparent)] animate-pulse" />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_70%_70%,rgba(255,119,198,0.2),transparent)] animate-pulse" style={{ animationDelay: '1s' }} />
-      </div>
-
-      <div className="relative z-10">
-        {/* Header */}
-        <header className="container mx-auto px-4 py-8 text-center">
-          <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent mb-4">
-            SHOLINGARAM HEMANTH
-          </h1>
-          <p className="text-lg text-gray-300 mb-6">
-            Full Stack Developer | Code Architect | Digital Innovator
-          </p>
-          <div className="h-12 flex items-center justify-center">
-            <div className="text-xl md:text-2xl font-mono text-purple-400 animate-pulse">
-              {typingTexts[currentText]}
-            </div>
-          </div>
-        </header>
-
-        {/* Navigation */}
-        <nav className="container mx-auto px-4 mb-8">
-          <div className="flex justify-center gap-2 md:gap-4 flex-wrap">
-            <NavButton section="about" icon={Code} label="About" />
-            <NavButton section="projects" icon={Star} label="Projects" />
-            <NavButton section="skills" icon={Zap} label="Skills" />
-            <NavButton section="contact" icon={Mail} label="Contact" />
-          </div>
-        </nav>
-
-        {/* Content Sections */}
-        <main className="container mx-auto px-4 pb-8">
-          {/* About Section */}
-          {activeSection === 'about' && (
-            <section className="animate-fadeIn">
-              <div className="bg-gray-800 bg-opacity-50 rounded-xl p-6 md:p-8 backdrop-blur-sm border border-gray-700">
-                <h2 className="text-2xl md:text-3xl font-bold mb-6 text-center">
-                  <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-                    About The Code Architect
-                  </span>
-                </h2>
-                
-                <div className="bg-gray-900 rounded-lg p-4 md:p-6 font-mono text-sm mb-6 overflow-x-auto">
-                  <div className="text-blue-400">const</div>
-                  <div className="text-yellow-400 ml-4">sholingaramHemanth = {`{`}</div>
-                  <div className="ml-8 text-gray-300">
-                    <div><span className="text-red-400">location:</span> <span className="text-green-400">"India 🇮🇳"</span>,</div>
-                    <div><span className="text-red-400">code:</span> <span className="text-green-400">["JavaScript", "Python", "Java", "TypeScript"]</span>,</div>
-                    <div><span className="text-red-400">currentFocus:</span> <span className="text-green-400">"Building awesome web applications 🚀"</span>,</div>
-                    <div><span className="text-red-400">funFact:</span> <span className="text-green-400">"I debug with console.log and I am not ashamed 😄"</span></div>
-                  </div>
-                  <div className="text-yellow-400">{`};`}</div>
-                </div>
-
-                <div className="grid md:grid-cols-3 gap-4 text-center">
-                  <div className="bg-gradient-to-r from-purple-600 to-purple-700 p-4 rounded-lg">
-                    <div className="text-2xl font-bold">25+</div>
-                    <div className="text-sm opacity-90">Projects</div>
-                  </div>
-                  <div className="bg-gradient-to-r from-blue-600 to-blue-700 p-4 rounded-lg">
-                    <div className="text-2xl font-bold">500+</div>
-                    <div className="text-sm opacity-90">Commits</div>
-                  </div>
-                  <div className="bg-gradient-to-r from-green-600 to-green-700 p-4 rounded-lg">
-                    <div className="text-2xl font-bold">3+</div>
-                    <div className="text-sm opacity-90">Years Coding</div>
-                  </div>
-                </div>
-              </div>
-            </section>
-          )}
-
-          {/* Projects Section */}
-          {activeSection === 'projects' && (
-            <section className="animate-fadeIn">
-              <h2 className="text-2xl md:text-3xl font-bold mb-8 text-center">
-                <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-                  🚀 Featured Projects
-                </span>
-              </h2>
-              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {featuredProjects.map((project, idx) => (
-                  <ProjectCard key={idx} project={project} />
-                ))}
-              </div>
-            </section>
-          )}
-
-          {/* Skills Section */}
-          {activeSection === 'skills' && (
-            <section className="animate-fadeIn">
-              <h2 className="text-2xl md:text-3xl font-bold mb-8 text-center">
-                <span className="bg-gradient-to-r from-green-400 to-blue-400 bg-clip-text text-transparent">
-                  💻 Core Technologies
-                </span>
-              </h2>
-              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {topSkills.map((skill, idx) => (
-                  <div key={idx} className="bg-gray-800 bg-opacity-50 rounded-xl p-6 border border-gray-700 backdrop-blur-sm">
-                    <SkillBar skill={skill} />
-                  </div>
-                ))}
-              </div>
-              
-              <div className="mt-8 text-center">
-                <div className="bg-gray-800 bg-opacity-50 rounded-xl p-6 border border-gray-700 backdrop-blur-sm">
-                  <h3 className="text-xl font-semibold mb-4">Currently Learning</h3>
-                  <div className="flex flex-wrap justify-center gap-3">
-                    {["Next.js", "Docker", "AWS", "GraphQL", "React Native"].map((tech, idx) => (
-                      <span key={idx} className="px-3 py-1 bg-yellow-900 bg-opacity-50 text-yellow-300 rounded-full text-sm border border-yellow-700">
-                        {tech}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-              </div>
-            </section>
-          )}
-
-          {/* Contact Section */}
-          {activeSection === 'contact' && (
-            <section className="animate-fadeIn">
-              <div className="bg-gray-800 bg-opacity-50 rounded-xl p-6 md:p-8 border border-gray-700 backdrop-blur-sm">
-                <h2 className="text-2xl md:text-3xl font-bold mb-6 text-center">
-                  <span className="bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent">
-                    🤝 Let's Connect
-                  </span>
-                </h2>
-                
-                <div className="grid md:grid-cols-2 gap-6 mb-8">
-                  <div>
-                    <h3 className="text-lg font-semibold mb-4">Get in Touch</h3>
-                    <div className="space-y-3">
-                      <button className="w-full flex items-center gap-3 bg-gradient-to-r from-red-500 to-red-600 px-4 py-3 rounded-lg hover:from-red-600 hover:to-red-700 transition-all duration-300">
-                        <Mail size={20} />
-                        <span>sholingaramhemanth@gmail.com</span>
-                      </button>
-                      <button className="w-full flex items-center gap-3 bg-gradient-to-r from-blue-500 to-blue-600 px-4 py-3 rounded-lg hover:from-blue-600 hover:to-blue-700 transition-all duration-300">
-                        <Linkedin size={20} />
-                        <span>LinkedIn Profile</span>
-                      </button>
-                      <button className="w-full flex items-center gap-3 bg-gradient-to-r from-gray-700 to-gray-800 px-4 py-3 rounded-lg hover:from-gray-800 hover:to-gray-900 transition-all duration-300">
-                        <Github size={20} />
-                        <span>GitHub Profile</span>
-                      </button>
-                    </div>
-                  </div>
-                  
-                  <div>
-                    <h3 className="text-lg font-semibold mb-4">Support My Work</h3>
-                    <button className="w-full flex items-center justify-center gap-3 bg-gradient-to-r from-yellow-500 to-orange-500 px-4 py-3 rounded-lg hover:from-yellow-600 hover:to-orange-600 transition-all duration-300">
-                      <Coffee size={20} />
-                      <span>Buy Me A Coffee</span>
-                    </button>
-                    <p className="text-sm text-gray-400 mt-3 text-center">
-                      Help fuel my coding adventures! ☕
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </section>
-          )}
-        </main>
-
-        {/* Footer */}
-        <footer className="text-center py-6 border-t border-gray-700">
-          <p className="text-gray-400 text-sm">
-            "Code is like humor. When you have to explain it, it is bad." – Cory House
-          </p>
-        </footer>
-      </div>
-
-      <style jsx>{`
-        @keyframes fadeIn {
-          from { opacity: 0; transform: translateY(20px); }
-          to { opacity: 1; transform: translateY(0); }
-        }
-        .animate-fadeIn {
-          animation: fadeIn 0.5s ease-out;
-        }
-      `}</style>
-    </div>
-  );
+    currentFocus: "Building awesome web applications 🚀",
+    funFact: "I debug with console.log and I am not ashamed 😄"
 };
 
-export default Portfolio;
+console.log("Welcome to my digital universe! 🌌");
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  🔥 What I'm Up To 🔥
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🚀 Currently Working On
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br/>
+🔐 Developing a secure full-stack authentication system using Node.js and MySQL
+🧠 Building a smart traffic monitoring solution using Edge Computing and task scheduling
+🤖 Engineering a human-following robot with real-time pose estimation using MediaPipe
+🌐 Designing a responsive and SEO-optimized personal portfolio website
+📊 Creating an AI-powered resume analyzer using NLP and cosine similarity (upcoming)<br/>
+
+</td>
+<td width="50%" align="center">
+
+### 📚 Currently Learning
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br/>
+⚡ Next.js and Server-Side Rendering<br/>
+🐳 Docker containerization<br/>
+☁ AWS cloud services<br/>
+🧠 Data structures and algorithms<br/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+  💻 Tech Arsenal & Superpowers 💻
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+### 🚀 Languages
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="React Development"/>
+  <p><em>🔥 React & Frontend Mastery 🔥</em></p>
+</div>
+
+### ⚡ Frontend Technologies
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+### 🛠 Backend Technologies
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Node.js Backend"/>
+  <p><em>🚀 Node.js & Backend API Wizardry 🚀</em></p>
+</div>
+
+### 🗄 Databases
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### ☁ Cloud & DevOps
+<div align="center">
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  📊 GitHub Analytics & Statistics 📊
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sholingaramhemanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholingaramhemanth&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sholingaramhemanth&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholingaram-hemanth&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+  🎯 Skill Mastery & Proficiency 🎯
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="300" alt="JavaScript Animation"/>
+  <p><em>🔥 JavaScript - The Language of the Web 🔥</em></p>
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+*🎨 Frontend Technologies*
+text
+JavaScript   ████████████████████ 95%
+TypeScript   ███████████████████  85%
+React        ████████████████████ 90%
+HTML/CSS     ████████████████████ 98%
+Vue.js       ██████████████       70%
+Angular      ████████████         60%
+
+
+</td>
+<td width="50%">
+
+*⚡ Backend Technologies*
+text
+Node.js      ████████████████████ 90%
+Python       ███████████████████  85%
+Java         ██████████████       70%
+Express.js   ████████████████████ 88%
+Django       ██████████████       65%
+Spring Boot  ████████████         55%
+
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="" width="300" alt="Python Data Visualization"/>
+  <p><em>🐍 Python - Data Science & Backend Powerhouse 🐍</em></p>
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+*🗄 Database Technologies*
+text
+MongoDB      ████████████████████ 85%
+MySQL        ███████████████████  80%
+PostgreSQL   ██████████████       65%
+Redis        ████████████         55%
+Firebase     ███████████████      75%
+
+
+</td>
+<td width="50%">
+
+*☁ DevOps & Cloud*
+text
+AWS          ██████████████       65%
+Docker       █████████████████    75%
+Git/GitHub   ████████████████████ 95%
+Linux        ██████████████       70%
+Kubernetes   ██████████           45%
+
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300" alt="Java Programming"/>
+  <p><em>☕ Java - Enterprise Grade Solutions ☕</em></p>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Database Operations"/>
+  <p><em>🏗 Database Management & Cloud Computing 🏗</em></p>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  📈 Coding Activity & Development Insights 📈
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+</div>
+
+<div align="center">
+  
+### 📊 Weekly Development Breakdown
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sholingaramhemanth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="Weekly Coding Stats"/>
+
+</div>
+
+<div align="center">
+
+### 🎯 Skills Radar Chart
+text
+        Problem Solving ████████████████████ 100%
+        Code Quality    ███████████████████  90%
+        Team Work       ████████████████████ 95%
+        Communication   ███████████████████  85%
+        Learning        ████████████████████ 98%
+        Innovation      ██████████████████   80%
+
+
+### 🚀 Development Focus Areas
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Web%20Development-95%25-brightgreen?style=for-the-badge&logo=html5&logoColor=white"/>
+<br><strong>🌐 Web Development</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Mobile%20Dev-70%25-yellow?style=for-the-badge&logo=react&logoColor=white"/>
+<br><strong>📱 Mobile Development</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Backend%20APIs-85%25-blue?style=for-the-badge&logo=nodejs&logoColor=white"/>
+<br><strong>🔧 Backend APIs</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/UI%2FUX-80%25-purple?style=for-the-badge&logo=figma&logoColor=white"/>
+<br><strong>🎨 UI/UX Design</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  🎓 Learning Journey & Future Goals 🎓
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+</div>
+
+### 🛤 Current Learning Path
+<div align="center">
+
+| 🚀 Technology | 📈 Progress | 🎯 Target Completion |
+|------------|----------|-------------------|
+| React Native | ![75%](https://progress-bar.dev/75) | Q3 2025 |
+| AWS Certification | ![45%](https://progress-bar.dev/45) | Q4 2025 |
+| Machine Learning | ![35%](https://progress-bar.dev/35) | Q1 2026 |
+| Docker & Kubernetes | ![60%](https://progress-bar.dev/60) | Q3 2025 |
+| GraphQL | ![50%](https://progress-bar.dev/50) | Q4 2025 |
+
+</div>
+
+### 📊 Coding Statistics
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total%20Projects-25+-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+<br><strong>🎯 Projects Completed</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Code%20Reviews-100+-blue?style=for-the-badge&logo=git&logoColor=white"/>
+<br><strong>👀 Code Reviews</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Open%20Source-15+-orange?style=for-the-badge&logo=opensource&logoColor=white"/>
+<br><strong>🤝 Contributions</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Learning%20Hours-500+-purple?style=for-the-badge&logo=clockify&logoColor=white"/>
+<br><strong>⏰ Learning Hours</strong>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+  🏆 GitHub Achievements & Trophies 🏆
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sholingaram-hemanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  🌟 Featured Projects Showcase 🌟
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257456-4d2e2cd1-aab4-4c0f-b3bb-ff8b74d6e0c0.gif" width="100">
+</div>
+
+<div align="center">
+
+### 💎 Project Highlights
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 Awesome Web App</h3>
+<div align="center">  
+<a href="https://github.com/sholingarm-hemanth/awesome-web-app" target="_blank">
+<img src="https://img.shields.io/badge/⭐_Star_this_repo-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<p><strong>JavaScript • React • Node.js</strong></p>
+<p>🎨 A modern web application with beautiful UI and UX design and robust backend functionality.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🤖 AI Assistant Bot</h3>
+<div align="center">
+<a href="https://github.com/sholingarm-hemanth/ai-assistant-bot" target="_blank">
+<img src="https://img.shields.io/badge/⭐_Star_this_repo-4FC08D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<p><strong>Python • Machine Learning • API</strong></p>
+<p>🧠 An intelligent chatbot powered by machine learning algorithms for natural conversations.</p>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+  🎉 Fun Zone & Entertainment 🎉
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257470-73a7b6c2-fb47-4109-8dd9-5dc319972c5b.gif" width="100">
+</div>
+
+### 💭 Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+### 😂 Random Dev Joke
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
+
+</div>
+
+### 🐍 Snake Game - Eating My Contributions
+<div align="center">
+
+![Snake animation](https://github.com/sholingarm-hemanth/sholingarm-hemanth/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+  🎵 Current Coding Playlist 🎵
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+  🤝 Let's Connect & Collaborate 🤝
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+### 📬 Get in Touch
+
+<div align="center">
+
+<a href="mailto:sholingaramhemanth@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/sholingaram-hemanth">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/sholingaram_hemanth">
+  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://discord.gg/sholingaramhemanth">
+  <img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://sholingaram-hemanth.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+### ☕ Support My Work
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/sholingaramhemanth" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
+</a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75&desc=⭐%20Star%20my%20repositories%20if%20you%20find%20them%20interesting&descAlignY=90&descSize=12"/>
+</div>
+
+<div align="center">
+  
+*🌟 Star my repositories if you find them interesting 🌟*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sholingarm-hemanth&label=Profile%20Views&color=brightgreen&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/sholingarm-hemanth?label=Followers&style=flat-square&color=blue)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br/>
+
+"Code is like humor. When you have to explain it, it is bad." – Cory House
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
