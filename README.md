@@ -87,10 +87,26 @@ console.log("Welcome to my digital universe! 🌌");
 
 ### 📚 Currently Learning
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br/>
-⚡ Next.js and Server-Side Rendering<br/>
-🐳 Docker containerization<br/>
-☁ AWS cloud services<br/>
-🧠 Data structures and algorithms<br/>
+
+<div align="center">
+  <img src="https://progress-bar.dev/75/?scale=100&title=&width=200&color=babaca&suffix=%" />
+</div>
+
+<div align="center">
+  <img src="https://progress-bar.dev/45/?scale=100&title=&width=200&color=babaca&suffix=%" />
+</div>
+
+<div align="center">
+  <img src="https://progress-bar.dev/35/?scale=100&title=&width=200&color=babaca&suffix=%" />
+</div>
+
+<div align="center">
+  <img src="https://progress-bar.dev/60/?scale=100&title=&width=200&color=babaca&suffix=%" />
+</div>
+
+<div align="center">
+  <img src="https://progress-bar.dev/50/?scale=100&title=&width=200&color=babaca&suffix=%" />
+</div>
 
 </td>
 </tr>
@@ -209,13 +225,7 @@ console.log("Welcome to my digital universe! 🌌");
 ### 📊 GitHub Contributions Calendar
 <img src="https://ghchart.rshah.org/70a5fd/sholingaramhemanth" alt="GitHub Contributions Chart"/>
 
-### 🗓 Weekly Commit Activity
-<img src="https://github-readme-stats.vercel.app/api?username=sholingaramhemanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&custom_title=Weekly%20GitHub%20Activity&include_all_commits=true&count_private=true&show_owner=true" alt="Weekly GitHub Activity"/>
-
-### 💻 Coding Frequency
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sholingaramhemanth&theme=tokyonight" alt="Profile Summary"/>
-
-### 📈 Contribution Stats
+### 💻 Contribution Stats
 <div align="center">
 <table>
 <tr>
@@ -250,10 +260,6 @@ console.log("Welcome to my digital universe! 🌌");
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
-<div align="center">
-  <p><em>🔥 JavaScript - The Language of the Web 🔥</em></p>
-</div>
-
 <table align="center">
 <tr>
 <td width="50%">
@@ -285,10 +291,6 @@ Spring Boot  ████████████         55%
 </tr>
 </table>
 
-<div align="center">
-  <p><em>🐍 Python - Data Science & Backend Powerhouse 🐍</em></p>
-</div>
-
 <table align="center">
 <tr>
 <td width="50%">
@@ -318,67 +320,10 @@ Kubernetes   ██████████           45%
 </tr>
 </table>
 
-<div align="center">
-  <p><em>☕ Java - Enterprise Grade Solutions ☕</em></p>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Database Operations"/>
-  <p><em>🏗 Database Management & Cloud Computing 🏗</em></p>
-</div>
-
 ---
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  🎓 Learning Journey & Future Goals 🎓
-</h2>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-</div>
-
-### 🛤 Current Learning Path
-<div align="center">
-
-| 🚀 Technology | 📈 Progress | 🎯 Target Completion |
-|------------|----------|-------------------|
-| React Native | ![75%](https://progress-bar.dev/75) | Q3 2025 |
-| AWS Certification | ![45%](https://progress-bar.dev/45) | Q4 2025 |
-| Machine Learning | ![35%](https://progress-bar.dev/35) | Q1 2026 |
-| Docker & Kubernetes | ![60%](https://progress-bar.dev/60) | Q3 2025 |
-| GraphQL | ![50%](https://progress-bar.dev/50) | Q4 2025 |
-
-</div>
-
-### 📊 Coding Statistics
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Total%20Projects-25+-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-<br><strong>🎯 Projects Completed</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Code%20Reviews-100+-blue?style=for-the-badge&logo=git&logoColor=white"/>
-<br><strong>👀 Code Reviews</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Open%20Source-15+-orange?style=for-the-badge&logo=opensource&logoColor=white"/>
-<br><strong>🤝 Contributions</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Learning%20Hours-500+-purple?style=for-the-badge&logo=clockify&logoColor=white"/>
-<br><strong>⏰ Learning Hours</strong>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
   🏆 GitHub Achievements & Trophies 🏆
 </h2>
 
