@@ -190,7 +190,53 @@ console.log("Welcome to my digital universe! 🌌");
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholingaram-hemanth&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholingaramhemanth&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  📈 Weekly Contributions & Development Activity 📈
+</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+</div>
+
+<div align="center">
+  
+### 📊 GitHub Contributions Calendar
+<img src="https://ghchart.rshah.org/70a5fd/sholingaramhemanth" alt="GitHub Contributions Chart"/>
+
+### 🗓 Weekly Commit Activity
+<img src="https://github-readme-stats.vercel.app/api?username=sholingaramhemanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&custom_title=Weekly%20GitHub%20Activity&include_all_commits=true&count_private=true&show_owner=true" alt="Weekly GitHub Activity"/>
+
+### 💻 Coding Frequency
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sholingaramhemanth&theme=tokyonight" alt="Profile Summary"/>
+
+### 📈 Contribution Stats
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sholingaramhemanth&theme=tokyonight" alt="Repos Per Language"/>
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sholingaramhemanth&theme=tokyonight" alt="Most Commit Language"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sholingaramhemanth&theme=tokyonight" alt="Stats"/>
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sholingaramhemanth&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</td>
+</tr>
+</table>
+</div>
+
 </div>
 
 ---
@@ -284,60 +330,6 @@ Kubernetes   ██████████           45%
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  📈 Coding Activity & Development Insights 📈
-</h2>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-</div>
-
-<div align="center">
-  
-### 📊 Weekly Development Breakdown
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sholingaramhemanth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="Weekly Coding Stats"/>
-
-</div>
-
-<div align="center">
-
-### 🎯 Skills Radar Chart
-```text
-        Problem Solving ████████████████████ 100%
-        Code Quality    ███████████████████  90%
-        Team Work       ████████████████████ 95%
-        Communication   ███████████████████  85%
-        Learning        ████████████████████ 98%
-        Innovation      ██████████████████   80%
-```
-
-### 🚀 Development Focus Areas
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Web%20Development-95%25-brightgreen?style=for-the-badge&logo=html5&logoColor=white"/>
-<br><strong>🌐 Web Development</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Mobile%20Dev-70%25-yellow?style=for-the-badge&logo=react&logoColor=white"/>
-<br><strong>📱 Mobile Development</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Backend%20APIs-85%25-blue?style=for-the-badge&logo=nodejs&logoColor=white"/>
-<br><strong>🔧 Backend APIs</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/UI%2FUX-80%25-purple?style=for-the-badge&logo=figma&logoColor=white"/>
-<br><strong>🎨 UI/UX Design</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
   🎓 Learning Journey & Future Goals 🎓
 </h2>
@@ -395,7 +387,7 @@ Kubernetes   ██████████           45%
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sholingaram-hemanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sholingaramhemanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -418,7 +410,7 @@ Kubernetes   ██████████           45%
 <td width="50%">
 <h3 align="center">🚀 Awesome Web App</h3>
 <div align="center">  
-<a href="https://github.com/sholingarm-hemanth/awesome-web-app" target="_blank">
+<a href="https://github.com/sholingaramhemanth/awesome-web-app" target="_blank">
 <img src="https://img.shields.io/badge/⭐_Star_this_repo-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
@@ -429,7 +421,7 @@ Kubernetes   ██████████           45%
 <td width="50%">
 <h3 align="center">🤖 AI Assistant Bot</h3>
 <div align="center">
-<a href="https://github.com/sholingarm-hemanth/ai-assistant-bot" target="_blank">
+<a href="https://github.com/sholingaramhemanth/ai-assistant-bot" target="_blank">
 <img src="https://img.shields.io/badge/⭐_Star_this_repo-4FC08D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
@@ -470,7 +462,7 @@ Kubernetes   ██████████           45%
 ### 🐍 Snake Game - Eating My Contributions
 <div align="center">
 
-![Snake animation](https://github.com/sholingarm-hemanth/sholingarm-hemanth/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/sholingaramhemanth/sholingaramhemanth/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -543,8 +535,8 @@ Kubernetes   ██████████           45%
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sholingarm-hemanth&label=Profile%20Views&color=brightgreen&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/sholingarm-hemanth?label=Followers&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sholingaramhemanth&label=Profile%20Views&color=brightgreen&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/sholingaramhemanth?label=Followers&style=flat-square&color=blue)
 
 <br/>
 
