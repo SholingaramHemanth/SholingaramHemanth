@@ -30,7 +30,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-javascript
+```javascript
 const sholingaramHemanth = {
     location: "India 🇮🇳",
     code: ["JavaScript", "Python", "Java", "TypeScript", "C++"],
@@ -53,7 +53,7 @@ const sholingaramHemanth = {
 };
 
 console.log("Welcome to my digital universe! 🌌");
-
+```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
@@ -76,10 +76,10 @@ console.log("Welcome to my digital universe! 🌌");
 
 ### 🚀 Currently Working On
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br/>
-🔐 Developing a secure full-stack authentication system using Node.js and MySQL
-🧠 Building a smart traffic monitoring solution using Edge Computing and task scheduling
-🤖 Engineering a human-following robot with real-time pose estimation using MediaPipe
-🌐 Designing a responsive and SEO-optimized personal portfolio website
+🔐 Developing a secure full-stack authentication system using Node.js and MySQL<br/>
+🧠 Building a smart traffic monitoring solution using Edge Computing and task scheduling<br/>
+🤖 Engineering a human-following robot with real-time pose estimation using MediaPipe<br/>
+🌐 Designing a responsive and SEO-optimized personal portfolio website<br/>
 📊 Creating an AI-powered resume analyzer using NLP and cosine similarity (upcoming)<br/>
 
 </td>
@@ -205,7 +205,6 @@ console.log("Welcome to my digital universe! 🌌");
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="300" alt="JavaScript Animation"/>
   <p><em>🔥 JavaScript - The Language of the Web 🔥</em></p>
 </div>
 
@@ -213,35 +212,34 @@ console.log("Welcome to my digital universe! 🌌");
 <tr>
 <td width="50%">
 
-*🎨 Frontend Technologies*
-text
+**🎨 Frontend Technologies**
+```text
 JavaScript   ████████████████████ 95%
 TypeScript   ███████████████████  85%
 React        ████████████████████ 90%
 HTML/CSS     ████████████████████ 98%
 Vue.js       ██████████████       70%
 Angular      ████████████         60%
-
+```
 
 </td>
 <td width="50%">
 
-*⚡ Backend Technologies*
-text
+**⚡ Backend Technologies**
+```text
 Node.js      ████████████████████ 90%
 Python       ███████████████████  85%
 Java         ██████████████       70%
 Express.js   ████████████████████ 88%
 Django       ██████████████       65%
 Spring Boot  ████████████         55%
-
+```
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="" width="300" alt="Python Data Visualization"/>
   <p><em>🐍 Python - Data Science & Backend Powerhouse 🐍</em></p>
 </div>
 
@@ -249,33 +247,32 @@ Spring Boot  ████████████         55%
 <tr>
 <td width="50%">
 
-*🗄 Database Technologies*
-text
+**🗄 Database Technologies**
+```text
 MongoDB      ████████████████████ 85%
 MySQL        ███████████████████  80%
 PostgreSQL   ██████████████       65%
 Redis        ████████████         55%
 Firebase     ███████████████      75%
-
+```
 
 </td>
 <td width="50%">
 
-*☁ DevOps & Cloud*
-text
+**☁ DevOps & Cloud**
+```text
 AWS          ██████████████       65%
 Docker       █████████████████    75%
 Git/GitHub   ████████████████████ 95%
 Linux        ██████████████       70%
 Kubernetes   ██████████           45%
-
+```
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300" alt="Java Programming"/>
   <p><em>☕ Java - Enterprise Grade Solutions ☕</em></p>
 </div>
 
@@ -305,14 +302,14 @@ Kubernetes   ██████████           45%
 <div align="center">
 
 ### 🎯 Skills Radar Chart
-text
+```text
         Problem Solving ████████████████████ 100%
         Code Quality    ███████████████████  90%
         Team Work       ████████████████████ 95%
         Communication   ███████████████████  85%
         Learning        ████████████████████ 98%
         Innovation      ██████████████████   80%
-
+```
 
 ### 🚀 Development Focus Areas
 <table>
